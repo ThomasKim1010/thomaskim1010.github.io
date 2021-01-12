@@ -1,2 +1,2 @@
-# blog.github.io
+# blog
 Personal Blog
